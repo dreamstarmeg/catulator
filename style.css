@@ -1,5 +1,7 @@
 /* Copyright © 2026 dreamstarmeg on GitHub
-   All Rights Reserved. */* {
+   All Rights Reserved. */
+
+* {
     box-sizing: border-box;
 }
 
@@ -135,3 +137,4 @@ body::before {
 		color: #f06292;
 	}
 }
+
